@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ramazan OZTURK, @rmznztrk
+![image](https://github.com/rmznztrk/rmznztrk/assets/136638492/1985d704-b644-432b-b913-b7e8b766494b)- 👋 Hi, I’m Ramazan OZTURK, @rmznztrk
 - 👀 I’m interested in  many branches of SCIENCE.
 - 🌱 I’m currently learning JAVA, JS, ReactJS, HTML/CSS
 - 📫 How to reach me:  
@@ -13,4 +13,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![image](https://github.com/rmznztrk/rmznztrk/assets/136638492/096c1168-66bd-436b-a0f9-e2d49bff128d)
-css3
+![image](https://github.com/rmznztrk/rmznztrk/assets/136638492/028f475e-a2b8-4ba9-8bbe-1cb9987c3a7b)
+
