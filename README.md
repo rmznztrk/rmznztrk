@@ -19,8 +19,11 @@ You can click the Preview link to take a look at your changes.
 ![image](https://github.com/rmznztrk/rmznztrk/assets/136638492/fc025e09-72d6-4990-bf9e-47240193d8c8)
 ![image](https://github.com/rmznztrk/rmznztrk/assets/136638492/6d9f2919-f09b-4b81-85db-bcc11fd58f4e)
 ![image](https://github.com/rmznztrk/rmznztrk/assets/136638492/876b31c8-4899-4b63-99a2-329ee9415041)
-![image](https://github.com/rmznztrk/rmznztrk/assets/136638492/1488ca65-be6e-4b95-aea5-69fa51ec51c2)
-![image](https://github.com/rmznztrk/rmznztrk/assets/136638492/c70f83d0-6a57-4637-b7a9-1eb6bccbdf8d)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 
 
