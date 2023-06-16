@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 ![image](https://github.com/rmznztrk/rmznztrk/assets/136638492/876b31c8-4899-4b63-99a2-329ee9415041)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sass,eclipse,postgres,stackoverflow,vim" />
+    <img src="https://skillicons.dev/icons?i=sass,eclipse,postgres,stackoverflow,vscode" />
   </a>
 </p>
 
