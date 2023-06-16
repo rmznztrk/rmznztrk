@@ -20,6 +20,8 @@ You can click the Preview link to take a look at your changes.
 ![image](https://github.com/rmznztrk/rmznztrk/assets/136638492/6d9f2919-f09b-4b81-85db-bcc11fd58f4e)
 ![image](https://github.com/rmznztrk/rmznztrk/assets/136638492/876b31c8-4899-4b63-99a2-329ee9415041)
 ![image](https://github.com/rmznztrk/rmznztrk/assets/136638492/1488ca65-be6e-4b95-aea5-69fa51ec51c2)
+![image](https://github.com/rmznztrk/rmznztrk/assets/136638492/84650765-8fc6-4102-927b-71053421f281)
+![image](https://github.com/rmznztrk/rmznztrk/assets/136638492/694afe97-d510-4eab-acc5-b68ebbfeacb5)
 
 
 
