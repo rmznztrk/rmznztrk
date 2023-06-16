@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JAVA, JS, ReactJS, HTML/CSS
 - 📫 How to reach me:  -> Linkedin: (https://www.linkedin.com/in/ramazan-%C3%B6zt%C3%BCrk-a17389205/)
 - 📫 How to reach me:  -> E-mail: rmzn_3766@hotmail.com
-               ![image](https://github.com/rmznztrk/rmznztrk/assets/136638492/dab757a2-9c61-43cf-9ac6-7372860f41e9/linkedin.com/in/ramazan-%C3%B6zt%C3%BCrk-a17389205)
+               ![image](https://www.linkedin.com/in/ramazan-%C3%B6zt%C3%BCrk-a17389205)
       
                      https://www.linkedin.com/in/ramazan-%C3%B6zt%C3%BCrk-a17389205/
                       
